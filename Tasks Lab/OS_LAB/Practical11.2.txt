@@ -1,0 +1,4 @@
+@echo off
+set /p name=Enter your name:
+if "%name%"=="Ali" echo Welcome Ali
+pause
