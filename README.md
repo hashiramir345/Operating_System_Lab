@@ -98,8 +98,8 @@ pause
 ### Expected Output
 
 ```text
-Enter your name: Ali
-Welcome, Ali!
+Enter your name: Hashir
+Welcome, Hashir!
 Press any key to continue . . .
 ```
 
