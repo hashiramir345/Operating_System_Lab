@@ -1,3 +1,8 @@
+# OS Lab 03 — Batch Scripting & Windows Automation
+Batch (.bat) scripts for Operating Systems Lab 03: practicals, practice questions, the hands-on activity and the final lab task. The scripts cover folder creation, file creation with output redirection, variables, user input, arithmetic, IF / ELSE, file-existence checks and FOR loops.
+# Equirements
+1)Microsoft Windows 10/11
+2)Command Prompt (CMD)
 # Operating System Lab
 ## Batch Scripting — Quick Knowledge Check & Viva Questions
 
